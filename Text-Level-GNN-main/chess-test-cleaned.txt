@@ -1,0 +1,30 @@
+placebic	this move leaves your opponent with an unfavorable response
+placebic	it leaves your opponent with no good options
+actionable	this forks the king and rook with your pawn
+actionable	pinning the knight to the king is the best move
+actionable	the opponent cannot defend their rook after this pin
+placebic	this move is the most advantageous
+placebic	this puts your piece in the best position available
+placebic	this swings the advantage in your favor
+actionable	pinning the knight to the king is the best move
+actionable	the opponent cannot defend their rook after this pin
+placebic	your other options are not nearly as beneficial
+placebic	your opponent is left with no good responses
+placebic	this leaves you with the most dominant position possible
+actionable	you capture the enemy queen which is worth much more than a single rook
+actionable	take the opponent s queen since it s much more valuable than the rook you lost
+actionable	while you may lose the rook the queen is much more powerful so you should remove it
+placebic	black is left with their least favorable options
+actionable	that piece cannot move or else their king would be in check
+placebic	this is the only winning move
+actionable	this wins a rook by forking it with the king
+placebic	the opponent will not be able to defend this position easily
+actionable	your bishop should move to this square to trap black s piece
+placebic	the opponent s pawn is now attacked
+actionable	you should collect the free rook after pinning it to the king
+placebic	you should attack the black position
+actionable	you re forcing the opponent s king to move allowing their queen to be taken
+placebic	the opponent is left with no good moves
+actionable	your position is strengthened by forking the king and the rook
+placebic	this puts the king in check
+actionable	the queen checks the king while attacking an undefended rook
